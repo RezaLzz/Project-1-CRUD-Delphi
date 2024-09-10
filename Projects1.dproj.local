@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/10 13:52:02.000.475,=C:\Users\WIN11\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 13:52:14.000.167,C:\Users\WIN11\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\WIN11\Documents\Embarcadero\Studio\Projects\Project1.pas</Transaction>
+    <Transaction>2024/09/10 13:52:14.000.167,C:\Users\WIN11\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\WIN11\Documents\Embarcadero\Studio\Projects\Project1.dfm</Transaction>
+    <Transaction>2024/09/10 13:58:46.000.255,C:\Users\WIN11\Documents\Embarcadero\Studio\Projects\Project1.dfm=C:\Users\WIN11\Downloads\Delphi tugas\Project1.dfm</Transaction>
+    <Transaction>2024/09/10 13:58:46.000.255,C:\Users\WIN11\Documents\Embarcadero\Studio\Projects\Project1.pas=C:\Users\WIN11\Downloads\Delphi tugas\Project1.pas</Transaction>
+    <Transaction>2024/09/10 13:59:36.000.291,C:\Users\WIN11\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\WIN11\Downloads\Delphi tugas\Projects1.dproj</Transaction>
+    <Transaction>2024/09/10 14:30:48.000.527,C:\Users\WIN11\Downloads\Delphi tugas\Projects1.dproj=C:\Users\WIN11\Downloads\Delphi tugas\Project 1 CRUD\Projects1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
